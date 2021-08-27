@@ -1,0 +1,1623 @@
+<?xml version="1.0"?>
+<inventory xmlns="http://www.demandware.com/xml/impex/inventory/2007-05-31">
+    <inventory-list>
+        <header list-id="101">
+            <default-instock>false</default-instock>
+            <use-bundle-inventory-only>false</use-bundle-inventory-only>
+            <on-order>false</on-order>
+        </header>
+        <records>
+            <record product-id="287055999">
+                <allocation>47</allocation>
+                <allocation-timestamp>2021-08-16T05:41:15.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="631193999">
+                <allocation>0</allocation>
+                <allocation-timestamp>2021-08-16T05:41:15.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="880186005">
+                <allocation>2</allocation>
+                <allocation-timestamp>2021-08-16T05:41:15.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="664785005">
+                <allocation>0</allocation>
+                <allocation-timestamp>2021-08-16T05:41:15.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+        </records>
+    </inventory-list>
+    <inventory-list>
+        <header list-id="427">
+            <default-instock>false</default-instock>
+            <use-bundle-inventory-only>false</use-bundle-inventory-only>
+            <on-order>false</on-order>
+        </header>
+        <records>
+            <record product-id="844810999">
+                <allocation>0</allocation>
+                <allocation-timestamp>2021-08-16T05:41:16.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="287055999">
+                <allocation>0</allocation>
+                <allocation-timestamp>2021-08-16T05:41:16.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+        </records>
+    </inventory-list>
+    <inventory-list>
+        <header list-id="13">
+            <default-instock>false</default-instock>
+            <use-bundle-inventory-only>false</use-bundle-inventory-only>
+            <on-order>false</on-order>
+        </header>
+        <records>
+            <record product-id="287055999">
+                <allocation>11</allocation>
+                <allocation-timestamp>2021-08-16T05:41:16.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="880186005">
+                <allocation>2</allocation>
+                <allocation-timestamp>2021-08-16T05:41:16.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="664785005">
+                <allocation>0</allocation>
+                <allocation-timestamp>2021-08-16T05:41:16.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="781075002">
+                <allocation>0</allocation>
+                <allocation-timestamp>2021-08-16T05:41:16.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="844810999">
+                <allocation>0</allocation>
+                <allocation-timestamp>2021-08-16T05:41:16.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="908356018">
+                <allocation>1</allocation>
+                <allocation-timestamp>2021-08-16T05:41:16.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+        </records>
+    </inventory-list>
+    <inventory-list>
+        <header list-id="17">
+            <default-instock>false</default-instock>
+            <use-bundle-inventory-only>false</use-bundle-inventory-only>
+            <on-order>false</on-order>
+        </header>
+        <records>
+            <record product-id="664785005">
+                <allocation>0</allocation>
+                <allocation-timestamp>2021-08-16T05:41:16.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="631193999">
+                <allocation>0</allocation>
+                <allocation-timestamp>2021-08-16T05:41:16.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="908356018">
+                <allocation>0</allocation>
+                <allocation-timestamp>2021-08-16T05:41:16.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="287055999">
+                <allocation>0</allocation>
+                <allocation-timestamp>2021-08-16T05:41:16.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="614555999">
+                <allocation>0</allocation>
+                <allocation-timestamp>2021-08-16T05:41:16.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+        </records>
+    </inventory-list>
+    <inventory-list>
+        <header list-id="102">
+            <default-instock>false</default-instock>
+            <use-bundle-inventory-only>false</use-bundle-inventory-only>
+            <on-order>false</on-order>
+        </header>
+        <records>
+            <record product-id="664785005">
+                <allocation>0</allocation>
+                <allocation-timestamp>2021-08-16T05:41:16.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="908356018">
+                <allocation>0</allocation>
+                <allocation-timestamp>2021-08-16T05:41:16.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="844810999">
+                <allocation>0</allocation>
+                <allocation-timestamp>2021-08-16T05:41:16.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="781075002">
+                <allocation>0</allocation>
+                <allocation-timestamp>2021-08-16T05:41:16.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="631193999">
+                <allocation>0</allocation>
+                <allocation-timestamp>2021-08-16T05:41:16.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="287055999">
+                <allocation>11</allocation>
+                <allocation-timestamp>2021-08-16T05:41:16.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="880186005">
+                <allocation>0</allocation>
+                <allocation-timestamp>2021-08-16T05:41:16.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+        </records>
+    </inventory-list>
+    <inventory-list>
+        <header list-id="87">
+            <default-instock>false</default-instock>
+            <use-bundle-inventory-only>false</use-bundle-inventory-only>
+            <on-order>false</on-order>
+        </header>
+        <records>
+            <record product-id="287055999">
+                <allocation>9</allocation>
+                <allocation-timestamp>2021-08-16T05:41:16.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="664785005">
+                <allocation>0</allocation>
+                <allocation-timestamp>2021-08-16T05:41:16.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="908356018">
+                <allocation>0</allocation>
+                <allocation-timestamp>2021-08-16T05:41:16.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+        </records>
+    </inventory-list>
+    <inventory-list>
+        <header list-id="105">
+            <default-instock>false</default-instock>
+            <use-bundle-inventory-only>false</use-bundle-inventory-only>
+            <on-order>false</on-order>
+        </header>
+        <records>
+            <record product-id="664785005">
+                <allocation>0</allocation>
+                <allocation-timestamp>2021-08-16T05:41:16.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="287055999">
+                <allocation>7</allocation>
+                <allocation-timestamp>2021-08-16T05:41:16.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="880186005">
+                <allocation>0</allocation>
+                <allocation-timestamp>2021-08-16T05:41:16.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+        </records>
+    </inventory-list>
+    <inventory-list>
+        <header list-id="89">
+            <default-instock>false</default-instock>
+            <use-bundle-inventory-only>false</use-bundle-inventory-only>
+            <on-order>false</on-order>
+        </header>
+        <records>
+            <record product-id="287055999">
+                <allocation>25</allocation>
+                <allocation-timestamp>2021-08-16T05:41:16.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="908356018">
+                <allocation>0</allocation>
+                <allocation-timestamp>2021-08-16T05:41:16.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="664785005">
+                <allocation>0</allocation>
+                <allocation-timestamp>2021-08-16T05:41:16.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="631193999">
+                <allocation>0</allocation>
+                <allocation-timestamp>2021-08-16T05:41:16.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="781075002">
+                <allocation>0</allocation>
+                <allocation-timestamp>2021-08-16T05:41:16.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="880186005">
+                <allocation>0</allocation>
+                <allocation-timestamp>2021-08-16T05:41:16.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+        </records>
+    </inventory-list>
+    <inventory-list>
+        <header list-id="21">
+            <default-instock>false</default-instock>
+            <use-bundle-inventory-only>false</use-bundle-inventory-only>
+            <on-order>false</on-order>
+        </header>
+        <records>
+            <record product-id="844810999">
+                <allocation>0</allocation>
+                <allocation-timestamp>2021-08-16T05:41:16.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="664785005">
+                <allocation>1</allocation>
+                <allocation-timestamp>2021-08-16T05:41:16.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="700894010">
+                <allocation>0</allocation>
+                <allocation-timestamp>2021-08-16T05:41:16.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="908356018">
+                <allocation>0</allocation>
+                <allocation-timestamp>2021-08-16T05:41:16.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="880186005">
+                <allocation>0</allocation>
+                <allocation-timestamp>2021-08-16T05:41:16.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="287055999">
+                <allocation>30</allocation>
+                <allocation-timestamp>2021-08-16T05:41:16.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="781075002">
+                <allocation>0</allocation>
+                <allocation-timestamp>2021-08-16T05:41:16.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+        </records>
+    </inventory-list>
+    <inventory-list>
+        <header list-id="118">
+            <default-instock>false</default-instock>
+            <use-bundle-inventory-only>false</use-bundle-inventory-only>
+            <on-order>false</on-order>
+        </header>
+        <records>
+            <record product-id="631193999">
+                <allocation>0</allocation>
+                <allocation-timestamp>2021-08-16T05:41:16.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="287055999">
+                <allocation>14</allocation>
+                <allocation-timestamp>2021-08-16T05:41:16.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="908356018">
+                <allocation>0</allocation>
+                <allocation-timestamp>2021-08-16T05:41:16.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="880186005">
+                <allocation>0</allocation>
+                <allocation-timestamp>2021-08-16T05:41:16.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+        </records>
+    </inventory-list>
+    <inventory-list>
+        <header list-id="88">
+            <default-instock>false</default-instock>
+            <use-bundle-inventory-only>false</use-bundle-inventory-only>
+            <on-order>false</on-order>
+        </header>
+        <records>
+            <record product-id="781075002">
+                <allocation>0</allocation>
+                <allocation-timestamp>2021-08-16T05:41:16.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="664785005">
+                <allocation>0</allocation>
+                <allocation-timestamp>2021-08-16T05:41:16.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="908356018">
+                <allocation>2</allocation>
+                <allocation-timestamp>2021-08-16T05:41:16.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="880186005">
+                <allocation>0</allocation>
+                <allocation-timestamp>2021-08-16T05:41:16.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="844810999">
+                <allocation>0</allocation>
+                <allocation-timestamp>2021-08-16T05:41:16.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="631193999">
+                <allocation>0</allocation>
+                <allocation-timestamp>2021-08-16T05:41:16.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+        </records>
+    </inventory-list>
+    <inventory-list>
+        <header list-id="109">
+            <default-instock>false</default-instock>
+            <use-bundle-inventory-only>false</use-bundle-inventory-only>
+            <on-order>false</on-order>
+        </header>
+        <records>
+            <record product-id="880186005">
+                <allocation>0</allocation>
+                <allocation-timestamp>2021-08-16T05:41:16.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="631193999">
+                <allocation>0</allocation>
+                <allocation-timestamp>2021-08-16T05:41:16.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="664785005">
+                <allocation>4</allocation>
+                <allocation-timestamp>2021-08-16T05:41:16.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="908356018">
+                <allocation>26</allocation>
+                <allocation-timestamp>2021-08-16T05:41:16.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="287055999">
+                <allocation>22</allocation>
+                <allocation-timestamp>2021-08-16T05:41:16.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="781075002">
+                <allocation>0</allocation>
+                <allocation-timestamp>2021-08-16T05:41:16.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+        </records>
+    </inventory-list>
+    <inventory-list>
+        <header list-id="20">
+            <default-instock>false</default-instock>
+            <use-bundle-inventory-only>false</use-bundle-inventory-only>
+            <on-order>false</on-order>
+        </header>
+        <records>
+            <record product-id="664785005">
+                <allocation>0</allocation>
+                <allocation-timestamp>2021-08-16T05:41:16.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="287055999">
+                <allocation>0</allocation>
+                <allocation-timestamp>2021-08-16T05:41:16.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="781075002">
+                <allocation>0</allocation>
+                <allocation-timestamp>2021-08-16T05:41:16.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="844810999">
+                <allocation>0</allocation>
+                <allocation-timestamp>2021-08-16T05:41:16.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="880186005">
+                <allocation>0</allocation>
+                <allocation-timestamp>2021-08-16T05:41:16.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="614555999">
+                <allocation>0</allocation>
+                <allocation-timestamp>2021-08-16T05:41:16.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="908356018">
+                <allocation>0</allocation>
+                <allocation-timestamp>2021-08-16T05:41:16.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+        </records>
+    </inventory-list>
+    <inventory-list>
+        <header list-id="19">
+            <default-instock>false</default-instock>
+            <use-bundle-inventory-only>false</use-bundle-inventory-only>
+            <on-order>false</on-order>
+        </header>
+        <records>
+            <record product-id="908356018">
+                <allocation>0</allocation>
+                <allocation-timestamp>2021-08-16T05:41:16.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="287055999">
+                <allocation>8</allocation>
+                <allocation-timestamp>2021-08-16T05:41:16.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="664785005">
+                <allocation>0</allocation>
+                <allocation-timestamp>2021-08-16T05:41:16.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+        </records>
+    </inventory-list>
+    <inventory-list>
+        <header list-id="103">
+            <default-instock>false</default-instock>
+            <use-bundle-inventory-only>false</use-bundle-inventory-only>
+            <on-order>false</on-order>
+        </header>
+        <records>
+            <record product-id="844810999">
+                <allocation>0</allocation>
+                <allocation-timestamp>2021-08-16T05:41:16.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="287055999">
+                <allocation>29</allocation>
+                <allocation-timestamp>2021-08-16T05:41:16.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="908356018">
+                <allocation>3</allocation>
+                <allocation-timestamp>2021-08-16T05:41:16.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="880186005">
+                <allocation>0</allocation>
+                <allocation-timestamp>2021-08-16T05:41:16.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+        </records>
+    </inventory-list>
+    <inventory-list>
+        <header list-id="16">
+            <default-instock>false</default-instock>
+            <use-bundle-inventory-only>false</use-bundle-inventory-only>
+            <on-order>false</on-order>
+        </header>
+        <records>
+            <record product-id="908356018">
+                <allocation>0</allocation>
+                <allocation-timestamp>2021-08-16T05:41:16.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="631193999">
+                <allocation>0</allocation>
+                <allocation-timestamp>2021-08-16T05:41:16.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="287055999">
+                <allocation>16</allocation>
+                <allocation-timestamp>2021-08-16T05:41:16.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="664785005">
+                <allocation>0</allocation>
+                <allocation-timestamp>2021-08-16T05:41:16.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+        </records>
+    </inventory-list>
+    <inventory-list>
+        <header list-id="123">
+            <default-instock>false</default-instock>
+            <use-bundle-inventory-only>false</use-bundle-inventory-only>
+            <on-order>false</on-order>
+        </header>
+        <records>
+            <record product-id="908356018">
+                <allocation>16</allocation>
+                <allocation-timestamp>2021-08-16T05:41:17.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="613941999">
+                <allocation>0</allocation>
+                <allocation-timestamp>2021-08-16T05:41:17.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="844810999">
+                <allocation>0</allocation>
+                <allocation-timestamp>2021-08-16T05:41:17.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+        </records>
+    </inventory-list>
+    <inventory-list>
+        <header list-id="22">
+            <default-instock>false</default-instock>
+            <use-bundle-inventory-only>false</use-bundle-inventory-only>
+            <on-order>false</on-order>
+        </header>
+        <records>
+            <record product-id="664785005">
+                <allocation>0</allocation>
+                <allocation-timestamp>2021-08-16T05:41:17.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="880186005">
+                <allocation>0</allocation>
+                <allocation-timestamp>2021-08-16T05:41:17.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="287055999">
+                <allocation>0</allocation>
+                <allocation-timestamp>2021-08-16T05:41:17.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="844810999">
+                <allocation>0</allocation>
+                <allocation-timestamp>2021-08-16T05:41:17.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="908356018">
+                <allocation>0</allocation>
+                <allocation-timestamp>2021-08-16T05:41:17.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="781075002">
+                <allocation>0</allocation>
+                <allocation-timestamp>2021-08-16T05:41:17.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+        </records>
+    </inventory-list>
+    <inventory-list>
+        <header list-id="108">
+            <default-instock>false</default-instock>
+            <use-bundle-inventory-only>false</use-bundle-inventory-only>
+            <on-order>false</on-order>
+        </header>
+        <records>
+            <record product-id="664785005">
+                <allocation>0</allocation>
+                <allocation-timestamp>2021-08-16T05:41:17.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="844810999">
+                <allocation>0</allocation>
+                <allocation-timestamp>2021-08-16T05:41:17.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="287055999">
+                <allocation>15</allocation>
+                <allocation-timestamp>2021-08-16T05:41:17.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="880186005">
+                <allocation>0</allocation>
+                <allocation-timestamp>2021-08-16T05:41:17.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="908356018">
+                <allocation>2</allocation>
+                <allocation-timestamp>2021-08-16T05:41:17.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+        </records>
+    </inventory-list>
+    <inventory-list>
+        <header list-id="44">
+            <default-instock>false</default-instock>
+            <use-bundle-inventory-only>false</use-bundle-inventory-only>
+            <on-order>false</on-order>
+        </header>
+        <records>
+            <record product-id="781075002">
+                <allocation>0</allocation>
+                <allocation-timestamp>2021-08-16T05:41:17.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="664785005">
+                <allocation>0</allocation>
+                <allocation-timestamp>2021-08-16T05:41:17.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="287055999">
+                <allocation>9</allocation>
+                <allocation-timestamp>2021-08-16T05:41:17.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="908356018">
+                <allocation>0</allocation>
+                <allocation-timestamp>2021-08-16T05:41:17.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+        </records>
+    </inventory-list>
+    <inventory-list>
+        <header list-id="110">
+            <default-instock>false</default-instock>
+            <use-bundle-inventory-only>false</use-bundle-inventory-only>
+            <on-order>false</on-order>
+        </header>
+        <records>
+            <record product-id="287055999">
+                <allocation>4</allocation>
+                <allocation-timestamp>2021-08-16T05:41:17.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="880186005">
+                <allocation>3</allocation>
+                <allocation-timestamp>2021-08-16T05:41:17.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="844810999">
+                <allocation>0</allocation>
+                <allocation-timestamp>2021-08-16T05:41:17.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+        </records>
+    </inventory-list>
+    <inventory-list>
+        <header list-id="25">
+            <default-instock>false</default-instock>
+            <use-bundle-inventory-only>false</use-bundle-inventory-only>
+            <on-order>false</on-order>
+        </header>
+        <records>
+            <record product-id="781075002">
+                <allocation>0</allocation>
+                <allocation-timestamp>2021-08-16T05:41:17.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="880186005">
+                <allocation>0</allocation>
+                <allocation-timestamp>2021-08-16T05:41:17.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="287055999">
+                <allocation>6</allocation>
+                <allocation-timestamp>2021-08-16T05:41:17.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="631193999">
+                <allocation>0</allocation>
+                <allocation-timestamp>2021-08-16T05:41:17.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="908356018">
+                <allocation>7</allocation>
+                <allocation-timestamp>2021-08-16T05:41:17.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="664785005">
+                <allocation>0</allocation>
+                <allocation-timestamp>2021-08-16T05:41:17.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+        </records>
+    </inventory-list>
+    <inventory-list>
+        <header list-id="115">
+            <default-instock>false</default-instock>
+            <use-bundle-inventory-only>false</use-bundle-inventory-only>
+            <on-order>false</on-order>
+        </header>
+        <records>
+            <record product-id="664785005">
+                <allocation>0</allocation>
+                <allocation-timestamp>2021-08-16T05:41:17.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="631193999">
+                <allocation>0</allocation>
+                <allocation-timestamp>2021-08-16T05:41:17.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="908356018">
+                <allocation>11</allocation>
+                <allocation-timestamp>2021-08-16T05:41:17.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="844810999">
+                <allocation>0</allocation>
+                <allocation-timestamp>2021-08-16T05:41:17.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="880186005">
+                <allocation>7</allocation>
+                <allocation-timestamp>2021-08-16T05:41:17.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="287055999">
+                <allocation>21</allocation>
+                <allocation-timestamp>2021-08-16T05:41:17.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="700894010">
+                <allocation>0</allocation>
+                <allocation-timestamp>2021-08-16T05:41:17.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+        </records>
+    </inventory-list>
+    <inventory-list>
+        <header list-id="39">
+            <default-instock>false</default-instock>
+            <use-bundle-inventory-only>false</use-bundle-inventory-only>
+            <on-order>false</on-order>
+        </header>
+        <records>
+            <record product-id="844810999">
+                <allocation>0</allocation>
+                <allocation-timestamp>2021-08-16T05:41:17.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="287055999">
+                <allocation>12</allocation>
+                <allocation-timestamp>2021-08-16T05:41:17.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="908356018">
+                <allocation>0</allocation>
+                <allocation-timestamp>2021-08-16T05:41:17.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="664785005">
+                <allocation>0</allocation>
+                <allocation-timestamp>2021-08-16T05:41:17.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+        </records>
+    </inventory-list>
+    <inventory-list>
+        <header list-id="433">
+            <default-instock>false</default-instock>
+            <use-bundle-inventory-only>false</use-bundle-inventory-only>
+            <on-order>false</on-order>
+        </header>
+        <records>
+            <record product-id="880186005">
+                <allocation>3</allocation>
+                <allocation-timestamp>2021-08-16T05:41:17.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="287055999">
+                <allocation>0</allocation>
+                <allocation-timestamp>2021-08-16T05:41:17.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+        </records>
+    </inventory-list>
+    <inventory-list>
+        <header list-id="121">
+            <default-instock>false</default-instock>
+            <use-bundle-inventory-only>false</use-bundle-inventory-only>
+            <on-order>false</on-order>
+        </header>
+        <records>
+            <record product-id="287055999">
+                <allocation>14</allocation>
+                <allocation-timestamp>2021-08-16T05:41:17.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="664785005">
+                <allocation>0</allocation>
+                <allocation-timestamp>2021-08-16T05:41:17.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+        </records>
+    </inventory-list>
+    <inventory-list>
+        <header list-id="464">
+            <default-instock>false</default-instock>
+            <use-bundle-inventory-only>false</use-bundle-inventory-only>
+            <on-order>false</on-order>
+        </header>
+        <records>
+            <record product-id="287055999">
+                <allocation>0</allocation>
+                <allocation-timestamp>2021-08-16T05:41:17.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="880186005">
+                <allocation>0</allocation>
+                <allocation-timestamp>2021-08-16T05:41:17.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+        </records>
+    </inventory-list>
+    <inventory-list>
+        <header list-id="124">
+            <default-instock>false</default-instock>
+            <use-bundle-inventory-only>false</use-bundle-inventory-only>
+            <on-order>false</on-order>
+        </header>
+        <records>
+            <record product-id="287055999">
+                <allocation>14</allocation>
+                <allocation-timestamp>2021-08-16T05:41:17.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="844810999">
+                <allocation>0</allocation>
+                <allocation-timestamp>2021-08-16T05:41:17.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="664785005">
+                <allocation>0</allocation>
+                <allocation-timestamp>2021-08-16T05:41:17.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="908356018">
+                <allocation>1</allocation>
+                <allocation-timestamp>2021-08-16T05:41:17.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+        </records>
+    </inventory-list>
+    <inventory-list>
+        <header list-id="38">
+            <default-instock>false</default-instock>
+            <use-bundle-inventory-only>false</use-bundle-inventory-only>
+            <on-order>false</on-order>
+        </header>
+        <records>
+            <record product-id="631193999">
+                <allocation>0</allocation>
+                <allocation-timestamp>2021-08-16T05:41:18.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="287055999">
+                <allocation>27</allocation>
+                <allocation-timestamp>2021-08-16T05:41:18.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="908356018">
+                <allocation>1</allocation>
+                <allocation-timestamp>2021-08-16T05:41:18.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="664785005">
+                <allocation>2</allocation>
+                <allocation-timestamp>2021-08-16T05:41:18.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+        </records>
+    </inventory-list>
+    <inventory-list>
+        <header list-id="116">
+            <default-instock>false</default-instock>
+            <use-bundle-inventory-only>false</use-bundle-inventory-only>
+            <on-order>false</on-order>
+        </header>
+        <records>
+            <record product-id="631193999">
+                <allocation>0</allocation>
+                <allocation-timestamp>2021-08-16T05:41:18.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="287055999">
+                <allocation>8</allocation>
+                <allocation-timestamp>2021-08-16T05:41:18.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="664785005">
+                <allocation>0</allocation>
+                <allocation-timestamp>2021-08-16T05:41:18.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+        </records>
+    </inventory-list>
+    <inventory-list>
+        <header list-id="37">
+            <default-instock>false</default-instock>
+            <use-bundle-inventory-only>false</use-bundle-inventory-only>
+            <on-order>false</on-order>
+        </header>
+        <records>
+            <record product-id="781075002">
+                <allocation>0</allocation>
+                <allocation-timestamp>2021-08-16T05:41:18.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="908356018">
+                <allocation>0</allocation>
+                <allocation-timestamp>2021-08-16T05:41:18.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="287055999">
+                <allocation>10</allocation>
+                <allocation-timestamp>2021-08-16T05:41:18.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="844810999">
+                <allocation>0</allocation>
+                <allocation-timestamp>2021-08-16T05:41:18.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="664785005">
+                <allocation>0</allocation>
+                <allocation-timestamp>2021-08-16T05:41:18.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+        </records>
+    </inventory-list>
+    <inventory-list>
+        <header list-id="106">
+            <default-instock>false</default-instock>
+            <use-bundle-inventory-only>false</use-bundle-inventory-only>
+            <on-order>false</on-order>
+        </header>
+        <records>
+            <record product-id="664785005">
+                <allocation>0</allocation>
+                <allocation-timestamp>2021-08-16T05:41:18.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="880186005">
+                <allocation>0</allocation>
+                <allocation-timestamp>2021-08-16T05:41:18.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="287055999">
+                <allocation>40</allocation>
+                <allocation-timestamp>2021-08-16T05:41:18.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+        </records>
+    </inventory-list>
+    <inventory-list>
+        <header list-id="119">
+            <default-instock>false</default-instock>
+            <use-bundle-inventory-only>false</use-bundle-inventory-only>
+            <on-order>false</on-order>
+        </header>
+        <records>
+            <record product-id="287055999">
+                <allocation>0</allocation>
+                <allocation-timestamp>2021-08-16T05:41:18.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="664785005">
+                <allocation>0</allocation>
+                <allocation-timestamp>2021-08-16T05:41:18.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+        </records>
+    </inventory-list>
+    <inventory-list>
+        <header list-id="479">
+            <default-instock>false</default-instock>
+            <use-bundle-inventory-only>false</use-bundle-inventory-only>
+            <on-order>false</on-order>
+        </header>
+        <records>
+            <record product-id="287055999">
+                <allocation>0</allocation>
+                <allocation-timestamp>2021-08-16T05:41:18.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+        </records>
+    </inventory-list>
+    <inventory-list>
+        <header list-id="40">
+            <default-instock>false</default-instock>
+            <use-bundle-inventory-only>false</use-bundle-inventory-only>
+            <on-order>false</on-order>
+        </header>
+        <records>
+            <record product-id="880186005">
+                <allocation>0</allocation>
+                <allocation-timestamp>2021-08-16T05:41:18.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="287055999">
+                <allocation>6</allocation>
+                <allocation-timestamp>2021-08-16T05:41:18.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="844810999">
+                <allocation>0</allocation>
+                <allocation-timestamp>2021-08-16T05:41:18.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="781075002">
+                <allocation>0</allocation>
+                <allocation-timestamp>2021-08-16T05:41:18.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="908356018">
+                <allocation>0</allocation>
+                <allocation-timestamp>2021-08-16T05:41:18.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="664785005">
+                <allocation>0</allocation>
+                <allocation-timestamp>2021-08-16T05:41:18.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+        </records>
+    </inventory-list>
+    <inventory-list>
+        <header list-id="9">
+            <default-instock>false</default-instock>
+            <use-bundle-inventory-only>false</use-bundle-inventory-only>
+            <on-order>false</on-order>
+        </header>
+        <records>
+            <record product-id="781075002">
+                <allocation>0</allocation>
+                <allocation-timestamp>2021-08-16T05:41:18.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="287055999">
+                <allocation>44</allocation>
+                <allocation-timestamp>2021-08-16T05:41:18.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="908356018">
+                <allocation>0</allocation>
+                <allocation-timestamp>2021-08-16T05:41:18.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="631193999">
+                <allocation>0</allocation>
+                <allocation-timestamp>2021-08-16T05:41:18.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="844810999">
+                <allocation>0</allocation>
+                <allocation-timestamp>2021-08-16T05:41:18.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="664785005">
+                <allocation>0</allocation>
+                <allocation-timestamp>2021-08-16T05:41:18.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+        </records>
+    </inventory-list>
+    <inventory-list>
+        <header list-id="41">
+            <default-instock>false</default-instock>
+            <use-bundle-inventory-only>false</use-bundle-inventory-only>
+            <on-order>false</on-order>
+        </header>
+        <records>
+            <record product-id="880186005">
+                <allocation>2</allocation>
+                <allocation-timestamp>2021-08-16T05:41:18.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="287055999">
+                <allocation>15</allocation>
+                <allocation-timestamp>2021-08-16T05:41:18.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="664785005">
+                <allocation>0</allocation>
+                <allocation-timestamp>2021-08-16T05:41:18.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="908356018">
+                <allocation>1</allocation>
+                <allocation-timestamp>2021-08-16T05:41:18.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="138080999">
+                <allocation>0</allocation>
+                <allocation-timestamp>2021-08-16T05:41:18.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="781075002">
+                <allocation>0</allocation>
+                <allocation-timestamp>2021-08-16T05:41:18.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="844810999">
+                <allocation>0</allocation>
+                <allocation-timestamp>2021-08-16T05:41:18.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+        </records>
+    </inventory-list>
+    <inventory-list>
+        <header list-id="60">
+            <default-instock>false</default-instock>
+            <use-bundle-inventory-only>false</use-bundle-inventory-only>
+            <on-order>false</on-order>
+        </header>
+        <records>
+            <record product-id="844810999">
+                <allocation>0</allocation>
+                <allocation-timestamp>2021-08-16T05:41:18.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="664785005">
+                <allocation>0</allocation>
+                <allocation-timestamp>2021-08-16T05:41:18.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="631193999">
+                <allocation>0</allocation>
+                <allocation-timestamp>2021-08-16T05:41:18.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="287055999">
+                <allocation>0</allocation>
+                <allocation-timestamp>2021-08-16T05:41:18.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="908356018">
+                <allocation>1</allocation>
+                <allocation-timestamp>2021-08-16T05:41:18.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+        </records>
+    </inventory-list>
+    <inventory-list>
+        <header list-id="64">
+            <default-instock>false</default-instock>
+            <use-bundle-inventory-only>false</use-bundle-inventory-only>
+            <on-order>false</on-order>
+        </header>
+        <records>
+            <record product-id="664785005">
+                <allocation>0</allocation>
+                <allocation-timestamp>2021-08-16T05:41:18.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="880186005">
+                <allocation>0</allocation>
+                <allocation-timestamp>2021-08-16T05:41:18.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="908356018">
+                <allocation>2</allocation>
+                <allocation-timestamp>2021-08-16T05:41:18.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="844810999">
+                <allocation>0</allocation>
+                <allocation-timestamp>2021-08-16T05:41:18.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="287055999">
+                <allocation>21</allocation>
+                <allocation-timestamp>2021-08-16T05:41:18.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="631193999">
+                <allocation>0</allocation>
+                <allocation-timestamp>2021-08-16T05:41:18.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="614555999">
+                <allocation>0</allocation>
+                <allocation-timestamp>2021-08-16T05:41:18.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+        </records>
+    </inventory-list>
+    <inventory-list>
+        <header list-id="111">
+            <default-instock>false</default-instock>
+            <use-bundle-inventory-only>false</use-bundle-inventory-only>
+            <on-order>false</on-order>
+        </header>
+        <records>
+            <record product-id="880186005">
+                <allocation>0</allocation>
+                <allocation-timestamp>2021-08-16T05:41:18.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="287055999">
+                <allocation>20</allocation>
+                <allocation-timestamp>2021-08-16T05:41:18.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="844810999">
+                <allocation>0</allocation>
+                <allocation-timestamp>2021-08-16T05:41:18.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+        </records>
+    </inventory-list>
+    <inventory-list>
+        <header list-id="410">
+            <default-instock>false</default-instock>
+            <use-bundle-inventory-only>false</use-bundle-inventory-only>
+            <on-order>false</on-order>
+        </header>
+        <records>
+            <record product-id="287055999">
+                <allocation>0</allocation>
+                <allocation-timestamp>2021-08-16T05:41:18.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="880186005">
+                <allocation>1</allocation>
+                <allocation-timestamp>2021-08-16T05:41:18.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+        </records>
+    </inventory-list>
+    <inventory-list>
+        <header list-id="107">
+            <default-instock>false</default-instock>
+            <use-bundle-inventory-only>false</use-bundle-inventory-only>
+            <on-order>false</on-order>
+        </header>
+        <records>
+            <record product-id="664785005">
+                <allocation>0</allocation>
+                <allocation-timestamp>2021-08-16T05:41:18.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="287055999">
+                <allocation>6</allocation>
+                <allocation-timestamp>2021-08-16T05:41:18.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="908356018">
+                <allocation>0</allocation>
+                <allocation-timestamp>2021-08-16T05:41:18.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="880186005">
+                <allocation>0</allocation>
+                <allocation-timestamp>2021-08-16T05:41:18.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+        </records>
+    </inventory-list>
+    <inventory-list>
+        <header list-id="23">
+            <default-instock>false</default-instock>
+            <use-bundle-inventory-only>false</use-bundle-inventory-only>
+            <on-order>false</on-order>
+        </header>
+        <records>
+            <record product-id="781075002">
+                <allocation>0</allocation>
+                <allocation-timestamp>2021-08-16T05:41:18.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="631193999">
+                <allocation>0</allocation>
+                <allocation-timestamp>2021-08-16T05:41:18.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="908356018">
+                <allocation>3</allocation>
+                <allocation-timestamp>2021-08-16T05:41:18.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="880186005">
+                <allocation>0</allocation>
+                <allocation-timestamp>2021-08-16T05:41:18.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="664785005">
+                <allocation>0</allocation>
+                <allocation-timestamp>2021-08-16T05:41:18.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="287055999">
+                <allocation>24</allocation>
+                <allocation-timestamp>2021-08-16T05:41:18.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+        </records>
+    </inventory-list>
+    <inventory-list>
+        <header list-id="104">
+            <default-instock>false</default-instock>
+            <use-bundle-inventory-only>false</use-bundle-inventory-only>
+            <on-order>false</on-order>
+        </header>
+        <records>
+            <record product-id="664785005">
+                <allocation>0</allocation>
+                <allocation-timestamp>2021-08-16T05:41:18.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="287055999">
+                <allocation>2</allocation>
+                <allocation-timestamp>2021-08-16T05:41:18.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="908356018">
+                <allocation>0</allocation>
+                <allocation-timestamp>2021-08-16T05:41:18.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="844810999">
+                <allocation>0</allocation>
+                <allocation-timestamp>2021-08-16T05:41:18.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+        </records>
+    </inventory-list>
+    <inventory-list>
+        <header list-id="30">
+            <default-instock>false</default-instock>
+            <use-bundle-inventory-only>false</use-bundle-inventory-only>
+            <on-order>false</on-order>
+        </header>
+        <records>
+            <record product-id="138080999">
+                <allocation>0</allocation>
+                <allocation-timestamp>2021-08-16T05:41:18.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="844810999">
+                <allocation>0</allocation>
+                <allocation-timestamp>2021-08-16T05:41:18.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="631193999">
+                <allocation>0</allocation>
+                <allocation-timestamp>2021-08-16T05:41:18.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="880186005">
+                <allocation>0</allocation>
+                <allocation-timestamp>2021-08-16T05:41:18.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="287055999">
+                <allocation>23</allocation>
+                <allocation-timestamp>2021-08-16T05:41:18.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="908356018">
+                <allocation>37</allocation>
+                <allocation-timestamp>2021-08-16T05:41:18.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+        </records>
+    </inventory-list>
+    <inventory-list>
+        <header list-id="125">
+            <default-instock>false</default-instock>
+            <use-bundle-inventory-only>false</use-bundle-inventory-only>
+            <on-order>false</on-order>
+        </header>
+        <records>
+            <record product-id="631193999">
+                <allocation>0</allocation>
+                <allocation-timestamp>2021-08-16T05:41:19.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="287055999">
+                <allocation>7</allocation>
+                <allocation-timestamp>2021-08-16T05:41:19.00Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+        </records>
+    </inventory-list>
+</inventory>
